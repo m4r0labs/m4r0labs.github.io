@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "M4R0Labs"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player<br>Security Research"
+  bio              : "Pentester, CTF player<br>Security Researcher"
   location         : "Argentina"
   email            : "m4r0labs@gmail.com"
   uri              :
@@ -117,7 +117,7 @@ author:
   github           : "m4r0labs"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : "m4r0labs"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -126,11 +126,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "snowscan"
+  twitter          : "M4r0Labs"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://youtube.com/m4r0labs"
 
 
 # Reading Files
